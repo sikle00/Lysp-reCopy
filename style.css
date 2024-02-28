@@ -1,0 +1,16 @@
+#lightbulb {
+    border-radius: 100%;
+    background-color: grey;
+    width: 100px;
+    height: 100px;
+    box-shadow: rgb(255, 255, 255) 0px 0px 15px;
+}
+.backGround1 {
+    margin-top: -25px;
+    margin-left: -25px;
+    padding-top: 100px;
+    padding-left: 200px;
+    background-color: #121212;
+    height: 1000px;
+    width: 3000px;
+}
